@@ -1,0 +1,15 @@
+/* @override http://www.akahillsdale.loc:1024/wp-content/themes/aka/style.css */
+
+/*
+Theme Name: Theme-0314
+Theme URI: http://www.4waymedia.com/theme-0314/
+Description: Bootstrap 3 wordpress theme. Uses alpha transparencies for section backgrounds and suppports a full size image for background.
+Version: 0.1
+Author: Paul Gemignani
+Author URI: http://www.mymediadesigner.com/paulg/
+Tags: responsive, transparent, block style, flat design
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import "css/reset.css";
